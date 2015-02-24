@@ -1,0 +1,212 @@
+cscope 15 d:\git-test"               0000000857
+	@TextFile.cs
+
+1 
+usšg
+ 
+	gSy¡em
+;
+
+2 
+usšg
+ 
+	gSy¡em
+.
+	gIO
+;
+
+4 þas 
+	cTextFže
+
+
+6 
+SŒšg
+ 
+	m·th
+;
+
+7 
+SŒšg
+ 
+	m‹xt
+;
+
+9 
+public
+ 
+	$Maš
+(
+SŒšg
+[] 
+¬gs
+)
+
+11 
+TextFže
+ 
+fže
+ = 
+Ãw
+ 
+	`TextFže
+();
+
+12 
+fže
+.
+	`lßd
+(
+¬gs
+[0]).
+	`´št
+();
+
+15 
+public
+ 
+	$TextFže
+(è{
+	}
+}
+
+17 
+public
+ 
+TextFže
+ 
+	$lßd
+(
+SŒšg
+ 
+·th
+)
+
+19 
+this
+.
+·th
+ =…ath;
+
+21 
+SŒ—mR—d”
+ 
+fže
+ = 
+Ãw
+ 
+	`SŒ—mR—d”
+(
+·th
+, 
+Sy¡em
+.
+Text
+.
+Encodšg
+.
+	`G‘Encodšg
+("Big5"));
+
+22 
+‹xt
+ = 
+fže
+.
+	`R—dToEnd
+();
+
+23 
+fže
+.
+	`Clo£
+();
+
+24  
+this
+;
+
+25 
+	}
+}
+
+27 
+public
+ 
+TextFže
+ 
+	$§ve
+()
+
+29 
+SŒ—mWr™”
+ 
+fže
+ = 
+Ãw
+ 
+	`SŒ—mWr™”
+(
+·th
+);
+
+31 
+fže
+.
+	`Wr™e
+(
+‹xt
+);
+
+32 
+fže
+.
+	`Clo£
+();
+
+33  
+this
+;
+
+34 
+	}
+}
+
+36 
+public
+ 
+TextFže
+ 
+	$´št
+()
+
+38 
+CÚsÞe
+.
+	`Wr™eLše
+("fže:…©h="+
+·th
+);
+
+39 
+CÚsÞe
+.
+	`Wr™eLše
+(
+‹xt
+);
+
+40  
+this
+;
+
+41 
+	}
+}
+
+	@
+1
+.
+0
+1
+12
+TextFile.cs
